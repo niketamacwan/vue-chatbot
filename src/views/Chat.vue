@@ -82,6 +82,7 @@ export default {
   transition: 0.3s;
   border-radius: 5px;
   border: 0;
+  padding: 10px;
 }
 
 .chat .chatMsg {
